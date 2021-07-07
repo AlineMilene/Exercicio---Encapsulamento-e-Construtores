@@ -1,6 +1,6 @@
 # Exercicio - Conta Bancária
 
-# Sobre
+## Sobre
 
 Este exercício foi realizado durante o curso de Programação Orientada a Objetos em C# do Professor Nelio Alves, dentro da plataforma de [Udemy](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/ "Link do curso"). Dentro dessa perspectiva, foi aplicado conhecimentos de:
 - Construtores
